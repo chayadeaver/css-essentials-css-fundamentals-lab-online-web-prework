@@ -19,7 +19,9 @@ section #featured-property {
   text-align: center;
   
 }
-
+figure {
+  text-align: center;
+}
 div {
   display: block;
   float: left;

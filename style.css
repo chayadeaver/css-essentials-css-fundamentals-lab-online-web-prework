@@ -19,7 +19,7 @@ p #featured-property {
   
 }
 
-div {
+div #details {
   display: block;
   float: left;
   background-color: red;
